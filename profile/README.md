@@ -8,7 +8,7 @@ Our mission is to build a strong foundation for technical growth, innovative thi
 
 We believe that success in tech is not just about code—it's about connection, confidence, and collective empowerment.
 
-[Start with Welcome Page]([https://github.com/CS2-Community/resources](https://github.com/CS-2-Community-HUB/cs-2-welcome/blob/main/README.md))
+[Start with Welcome Page](https://github.com/CS2-Community/resources](https://github.com/CS-2-Community-HUB/cs-2-welcome/blob/main/README.md))
 
 
 ---
